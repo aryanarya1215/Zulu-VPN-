@@ -1,2 +1,2 @@
 # Zulu-VPN-
-Get source code of Zulu vpn
+Zulu vpn is a virtual private network app built using Java in android studio.
